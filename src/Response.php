@@ -1,11 +1,11 @@
 <?php
 /**
- * Tools to use API as ActiveRecord for Yii2
+ * cURL tranport for yii2-hiart
  *
- * @link      https://github.com/hiqdev/yii2-hiart
- * @package   yii2-hiart
+ * @link      https://github.com/hiqdev/yii2-hiart-curl
+ * @package   yii2-hiart-curl
  * @license   BSD-3-Clause
- * @copyright Copyright (c) 2015-2017, HiQDev (http://hiqdev.com/)
+ * @copyright Copyright (c) 2017, HiQDev (http://hiqdev.com/)
  */
 
 namespace hiqdev\hiart\curl;

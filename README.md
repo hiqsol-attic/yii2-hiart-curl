@@ -1,4 +1,4 @@
-Yii2 Hiart Curl
+Yii2 HiArt cURL
 ===============
 
 **cURL tranport for yii2-hiart**

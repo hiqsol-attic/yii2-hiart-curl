@@ -2,7 +2,7 @@ package:
     type:           yii2-extension
     name:           yii2-hiart-curl
     title:          cURL tranport for yii2-hiart
-    headline:       Yii2 Hiart Curl
+    headline:       Yii2 HiArt cURL
     keywords:       yii2, hiart, curl
     namespace:      hiqdev\hiart\curl
     description:    |
