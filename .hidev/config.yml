@@ -1,10 +1,10 @@
 package:
     type:           yii2-extension
     name:           yii2-hiart-curl
-    title:          cURL tranport for yii2-hiart
+    title:          cURL transport for yii2-hiart
     headline:       Yii2 HiArt cURL
     keywords:       yii2, hiart, curl
     namespace:      hiqdev\hiart\curl
     description:    |
         This package provides [cURL](http://php.net/manual/en/book.curl.php)
-        for [yii2-hiart](https://github.com/hiqdev/yii2-hiart).
+        transport for [yii2-hiart](https://github.com/hiqdev/yii2-hiart).

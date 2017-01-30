@@ -1,7 +1,7 @@
 Yii2 HiArt cURL
 ===============
 
-**cURL tranport for yii2-hiart**
+**cURL transport for yii2-hiart**
 
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/yii2-hiart-curl/v/stable)](https://packagist.org/packages/hiqdev/yii2-hiart-curl)
 [![Total Downloads](https://poser.pugx.org/hiqdev/yii2-hiart-curl/downloads)](https://packagist.org/packages/hiqdev/yii2-hiart-curl)
@@ -11,7 +11,7 @@ Yii2 HiArt cURL
 [![Dependency Status](https://www.versioneye.com/php/hiqdev:yii2-hiart-curl/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:yii2-hiart-curl/dev-master)
 
 This package provides [cURL](http://php.net/manual/en/book.curl.php)
-for [yii2-hiart](https://github.com/hiqdev/yii2-hiart).
+transport for [yii2-hiart](https://github.com/hiqdev/yii2-hiart).
 
 ## Installation
 

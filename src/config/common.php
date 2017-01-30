@@ -1,6 +1,6 @@
 <?php
 /**
- * cURL tranport for yii2-hiart
+ * cURL transport for yii2-hiart
  *
  * @link      https://github.com/hiqdev/yii2-hiart-curl
  * @package   yii2-hiart-curl
