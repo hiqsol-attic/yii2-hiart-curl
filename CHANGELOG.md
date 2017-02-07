@@ -1,6 +1,6 @@
 # hiqdev/yii2-hiart-curl
 
-## [0.1.0] - 2017-01-30
+## [0.1.0] - 2017-02-07
 
 - Added basics ([@hiqsol])
 
