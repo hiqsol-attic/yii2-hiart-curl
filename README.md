@@ -1,7 +1,6 @@
-Yii2 HiArt cURL
-===============
+# DEPRECATED - Yii2 HiArt cURL
 
-**cURL transport for yii2-hiart**
+**DEPRECATED - functionality moved to yii2-hiart**
 
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/yii2-hiart-curl/v/stable)](https://packagist.org/packages/hiqdev/yii2-hiart-curl)
 [![Total Downloads](https://poser.pugx.org/hiqdev/yii2-hiart-curl/downloads)](https://packagist.org/packages/hiqdev/yii2-hiart-curl)

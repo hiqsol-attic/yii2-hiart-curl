@@ -1,7 +1,7 @@
 {
     "name": "hiqdev/yii2-hiart-curl",
     "type": "yii2-extension",
-    "description": "cURL transport for yii2-hiart",
+    "description": "DEPRECATED - functionality moved to yii2-hiart",
     "keywords": [
         "yii2",
         "hiart",

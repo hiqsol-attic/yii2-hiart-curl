@@ -1,8 +1,8 @@
 package:
     type:           yii2-extension
     name:           yii2-hiart-curl
-    title:          cURL transport for yii2-hiart
-    headline:       Yii2 HiArt cURL
+    title:          DEPRECATED - functionality moved to yii2-hiart
+    headline:       DEPRECATED - Yii2 HiArt cURL
     keywords:       yii2, hiart, curl
     namespace:      hiqdev\hiart\curl
     description:    |
