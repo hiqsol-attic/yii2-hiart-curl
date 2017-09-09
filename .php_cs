@@ -1,7 +1,7 @@
 <?php
 
 $header = <<<EOF
-cURL transport for yii2-hiart
+DEPRECATED - functionality moved to yii2-hiart
 
 @link      https://github.com/hiqdev/yii2-hiart-curl
 @package   yii2-hiart-curl
@@ -26,10 +26,9 @@ return PhpCsFixer\Config::create()
         ],
         'concat_space'                               =>  ['spacing' => 'one'],
         'array_syntax'                               =>  ['syntax' => 'short'],
-        'empty_return'                               =>  false,
+        'phpdoc_no_alias_tag'                        =>  ['replacements' => ['type' => 'var']],
         'blank_line_before_return'                   =>  false,
         'phpdoc_align'                               =>  false,
-        'phpdoc_params'                              =>  false,
         'phpdoc_scalar'                              =>  false,
         'phpdoc_separation'                          =>  false,
         'phpdoc_to_comment'                          =>  false,
